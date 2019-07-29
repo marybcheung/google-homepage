@@ -1,0 +1,1 @@
+A reconstruction of the google homepage to practice basic HTML and CSS. This webpage is not functional and is only made to look like an existing page.
