@@ -97,6 +97,7 @@ p {
 }
 
 footer {
+    z-index: 10;
     position: absolute;
     width: 100%;
     bottom: 0;
