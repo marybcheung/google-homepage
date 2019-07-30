@@ -62,7 +62,6 @@ nav a:hover {
 }
 
 .buttons input[type=button] {
-    -webkit-appearance: none;
     margin: 0 2px 0 2px;
     padding: 10px 20px;
     border-radius: 5px;
@@ -70,6 +69,10 @@ nav a:hover {
     color: rgb(83, 83, 83);
     background-color: rgb(238, 238, 238);
     letter-spacing: 0.05ch;
+}
+
+input[type=button] {
+    -webkit-appearance: none;
 }
 
 .buttons input[type=button]:hover {
