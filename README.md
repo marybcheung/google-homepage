@@ -1,1 +1,1 @@
-A reconstruction of the google homepage to practice basic HTML and CSS. This webpage is not functional and is only made to look like an existing page.
+A reconstruction of the google homepage to practice basic HTML and CSS. Part of [the Odin Project curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav).
